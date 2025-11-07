@@ -2323,14 +2323,14 @@
                 <tr> 
                     <!-- LINKED IN -->
                     <td>
-                        <a href="https://www.linkedin.com/in/mohammad-taha-192bb8225/">
+                        <a href="https://www.linkedin.com/in/mohammad/">
                             <img src="./images/linkedin-logo.png" width="30">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- YOUTUBE -->
                     <td>
-                        <a href="https://www.youtube.com/c/MohammadTaha">
+                        <a href="https://www.youtube.com/c/Mohamma">
                             <img src="./images/youtube-logo.png" width="30">
                         </a>
                     </td>
